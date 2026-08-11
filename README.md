@@ -1,49 +1,24 @@
 # The Primis
 
 
-"Primis" is a word play of "Primus", which means "first" in latin. We picked this name because we where the first 3 in our school, Benhamin Harrison Vocational to join the puertorrican WRO delegation.After our first competition as a group, we switched to the Robot Sport category, where we spent the most time working. Now, for our third year, we took the challenge of the future engeneers category, mentored by our coach, the great York E. Jackobs.
+"Primis" is a word play of "Primus", which means "first" in latin. We picked this name because we were the first 3 in our school, Benhamin Harrison Vocational to join the puertorrican WRO delegation. 
 
 
-## [Photos of the team and the robot](t-photos)
+<div align= "center">
+<img src="t-photos\XWhatsApp_Image_2026-04-29_at_11.09.17_PM.jpeg"width=600>
+</div>
 
-<img src="t-photos\WhatsApp Image 2026-03-04 at 2.11.13 PM.jpeg">
 
-------------------
 
-<img src="t-photos/WhatsApp Image 2026-04-29 at 11.09.17 PM.jpeg">
 
-------------------
 
-# [Vehicle-Photos](v-photos)
-<table>
-    <tr>
-        <td>
-            <img src="x">
-        </td>
-        <td>
-            <img src="x">
-        </td>
-                <td>
-        <img src="x">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="x">
-        </td>
-        <td>
-            <img src="x">
-        </td>
-                <td>
-        <img src="x">
-        </td>
-    </tr>
-</table>
+### RoboMission
+We started on the RoboMission category, after competing on the PRNRO we recieved a special award for our robot's design, and got invited to the WRO 2023 hosted by Panama to compete on the RoboSports category. 
 
-## Powertrain principle
+### RoboSports
+We competed on the Robosports category in Panama and later won the PRNRO 2024 to cualify for the WRO 2024 in Turkey.
 
-The primary idea of the vehicle is using compressed air as a clean energy source to move the vehicle, and to maximise efficiency we will use a 'E-CVT', a planetary gear transmission used in gasoline cars to maximize fuel eficiency on hybrid vehicles.
+### Future Engeneers 
+After retiring from the RoboSports category we decided to take on future engeneers for the first time!
 
-## Direction principle
 
-We will use a camera combined with 3 distance sensors to determine the actions of the robot.
