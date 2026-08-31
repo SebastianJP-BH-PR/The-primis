@@ -1,4 +1,4 @@
-# eCVT 4.0
+# eCVT 5.0
 > Retrospective log: This entry's information was digitized from the physical engineering notebook on 2026-06-30.
 
 <div align= "center">
@@ -10,10 +10,11 @@ eCVT 1.0 vs eCVT 5.0
 ## Specs
 - Module: 1.15
 - Pressure angle: 20°
-- Gear ratio, 1 (Sun) : 4 (planet Carrier)
+- Gear ratio, 8.4 (Sun) : 1 (planet Carrier)
+- Gear ratio, .833 (Ring Gear) : 1 (planet Carrier)
 - R (Ring Gear) = 30
-- S (Sun Gear) = 12
-- P (Planet Gear) = 6
+- S (Sun Gear) = 6
+- P (Planet Gear) = 12
 - OR (Outside Ring Gear) = 40
 
 
