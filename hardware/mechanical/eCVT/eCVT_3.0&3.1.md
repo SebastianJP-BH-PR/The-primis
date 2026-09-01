@@ -1,5 +1,5 @@
 # eCVT 3.0
-> Retrospective log: This entry's information was digitized from the physical engineering notebook on 2026-06-28.
+> Retrospective log from March 10, 2026: This entry's information was digitized from the physical engineering notebook.
 
 This was a prototype for a ultra small eCVT.
 

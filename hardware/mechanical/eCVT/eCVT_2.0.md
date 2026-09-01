@@ -1,5 +1,5 @@
 # eCVT 2.0
-> Retrospective log: This entry's information was digitized from the physical engineering notebook on 2026-06-28.
+> Retrospective log from February 22, 2026: This entry's information was digitized from the physical engineering notebook.
 
 This was our first actual ecvt that was fully asembled, it helped to test our first proof of concepts with the first vertions of the pneumatic engine.
 

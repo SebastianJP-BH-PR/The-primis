@@ -12,14 +12,14 @@ When our electronic valve is actuated, (letting air through) it has a current dr
 ## Mosfet Solenoid Driver
 
 <div align= "center">
-<img src="../../../hardware\photos\mosfetdriver.jpg" width=350>
+<img src="../../../../hardware\photos\mosfetdriver.jpg" width=350>
 </div>
 
 --- 
 
 To fix this problem we need to actuate a high current circuit with a small current circuit, and the following circuit makes this possible.
 <div align= "center">
-<img src="../../../hardware\photos\MosfetCircuit.PNG" width=350>
+<img src="../../../../hardware\photos\MosfetCircuit.PNG" width=350>
 </div>
 
 
@@ -28,7 +28,7 @@ this circuit uses a [MOSFET](../../../hardware\electrical\Solenoid_driver\mosfet
 
 ## Gate driver
 
-But, there a catch, the MOSFET we had available wasnt logic-level, this basicly means that for the drain to be fully interrupted, the gate needed mre than 5V, which we cant supply with a 5V microcontroller pin. To solve this problem we used a gate driver, a secondary circuit to boost voltage from the Gate with a BJT (Bipolar Junction Transistor) labled **Q1** in the circuit diagram. Now we can actuate between ON/OFF with the microcontoller.
+But, there a catch, the MOSFET we had available wasnt logic-level, this basically means that for the drain to be fully interrupted, the gate needed more than 5V, which we cant supply with a 5V microcontroller pin. To solve this problem we used a gate driver, a secondary circuit to boost voltage from the Gate with a BJT (Bipolar Junction Transistor) labled **Q1** in the circuit diagram. Now we can actuate between ON/OFF with the microcontoller.
 
 ## LED indicator 
 

@@ -1,5 +1,5 @@
 # eCVT 1.0
-> Retrospective log: This entry's information was digitized from the physical engineering notebook on 2026-06-27.
+> Retrospective log from February 22, 2026: This entry's information was digitized from the physical engineering notebook.
 
 Our first attempt of making our planetary gear transmission, this was mostly an attempt that tought us how to use fusion360, how our 3d printer worked and introduced us to gear ratio calculations.
 

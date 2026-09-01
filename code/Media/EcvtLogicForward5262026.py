@@ -1,10 +1,6 @@
 from machine import Pin, PWM
 import time
 
-# =========================================================
-# MOTOR DRIVER
-# =========================================================
-
 # M1 = TRANSMISSION MOTOR
 # GP8 = A
 # GP9 = B

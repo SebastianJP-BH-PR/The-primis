@@ -1,5 +1,5 @@
 ## eCVT logic coding 5-26-2026
-> Retrospective log: This entry's information was digitized from the physical engineering notebook on 2026-07-10.
+> > Retrospective log from July 10, 2026: This entry's information was digitized from the physical engineering notebook.
 
 The transmission motor as well as the flywheel on the pneumatic engine have encoders, these count the pulses on a disk that is rotating, calculating how many slots per revolution (360° spin of a axle) and its speed.
 
@@ -9,7 +9,7 @@ This allows us to:
 - Slowly increase or decrease speed of the vehicle
 - Calculate how much the vehicle traveled 
 
-We made a test bench to make the program for the eCVT logic. Using an electric motor as a simulator of the pneumatic engine without the need of refilling the air tanks, we will test the combination of encder values and power supply to the transmission motor to cancel out the movement of both thus making the car not move. 
+We made a test bench to make the program for the eCVT logic. Using an electric motor as a simulator of the pneumatic engine without the need of refilling the air tanks, we will test the combination of encder values and power supply to the transmission motor to cancel out the movement of both thus making the car not move.
 
 [Vehicle Neutral Hold Code](../code\EcvtLogicNeutral5262026.py)
 

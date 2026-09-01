@@ -1,5 +1,5 @@
 # eCVT 5.0
-> Retrospective log: This entry's information was digitized from the physical engineering notebook on 2026-06-30.
+> Retrospective log from May 14, 2026: This entry's information was digitized from the physical engineering notebook.
 
 <div align= "center">
 <img src="../../photos\ecvt4vs1.jpg" width=350>
