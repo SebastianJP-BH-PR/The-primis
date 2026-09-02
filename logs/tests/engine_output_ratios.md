@@ -1,10 +1,7 @@
 # Pneumatic Engine Gear Ratio Optimization
 
 
-The pneumatic engine is one of the main sources of propulsion for Aiza V3. 
-Because compressed air is limited, we needed to find a drivetrain configuration
-that could provide enough torque to move the robot reliably without consuming
-the air supply unnecessarily quickly.
+The overall goal of our entire drivetrain is to conserve as much compressed air as possible, so that the pneumatic engine can have the energy necesary for 3 revolutions and a parking sequence, we needed to research what variables impacted the eficiency and consumption of our precious air pressure.
 
 The main variables we investigated were:
 
@@ -17,6 +14,8 @@ The main variables we investigated were:
 The objective was to find the best balance between **torque, speed and air
 consumption**.
 
+We can just keep adidng air tanks to store more air, but thats besides the fact of needing air consumption eficiency.
+
 
 
 ## Understanding the Pneumatic Engine
@@ -24,7 +23,7 @@ consumption**.
 During our initial testing, we found that the pneumatic engine could rotate
 with very little load at approximately **20 PSI**. However, once  load was
 applied, the engine required significantly more torque to continue rotating
-and could stall.
+and would stall.
 
 
 Increasing the operating pressure allows the pneumatic engine to produce more
@@ -36,8 +35,7 @@ This created an important trade-off:
 
 - **Higher pressure:** More available torque and better performance under
   load, but greater air consumption.
-- **Lower pressure:** Lower air consumption, but less available torque and a
-  greater possibility of the engine stalling under load.
+- **Lower pressure:** Lower air consumption, but less available power.
 
 Because of this, simply increasing the regulator pressure was not an ideal
 solution. We wanted to determine whether the drivetrain gearing could be
