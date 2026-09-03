@@ -2,7 +2,7 @@
 > Retrospective log from July 13, 2026: This entry's information was digitized from the physical engineering notebook.
 
 
-The first camera program developed for the Raspberry Pi was [camworking.py](../../Media/camworking.py).
+The first camera program developed for the Raspberry Pi was [camworking.py](../../../code/srs/camworking.py).
 
 ```python
 from picamera2 import Picamera2
