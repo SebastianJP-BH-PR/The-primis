@@ -1,6 +1,6 @@
 # Solenoid Driver Board
 
-Our [ASMS](../../mechanical\Pneumatics\ASMS) uses a [electronic valve](e-valve.md) to interrupt the compressed air being fed to the pneumatic engine, This allows us to turn the engine ON/OFF.
+Our [ASMS](../../../../hardware\mechanical\Pneumatics\ASMS\README.md) uses a [electronic valve](e-valve.md) to interrupt the compressed air being fed to the pneumatic engine, This allows us to turn the engine ON/OFF.
 
 ## Voltage problem
 This e-valve uses 12V, which is obviously more than our 7.4V batteries, so we used a [voltage booster](voltage_booster.md) to have a 12V power supply for our electronic valve.
