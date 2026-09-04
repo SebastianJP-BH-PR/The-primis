@@ -9,16 +9,5 @@
 </div>
 
 
-
-### From 
-
-### RoboMission
-We started on the RoboMission category, after competing on the PRNRO we recieved a special award for our robot's design, and got invited to the WRO 2023 hosted by Panama to compete on the RoboSports category. 
-
-### RoboSports
-We competed on the Robosports category in Panama and later won the PRNRO 2024 to cualify for the WRO 2024 in Turkey.
-
-### Future Engeneers 
-After retiring from the RoboSports category we decided to take on future engeneers for the first time!
-
-
+# 
+ 

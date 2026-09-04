@@ -5,8 +5,8 @@ Pneumatic cylinders, have two inlets/outlets, depending of which inlet you have 
 <div align= "center">
 <table>
   <tr>
-    <td><img src="../../../photos\legopneumaticcylinder.jpg" width="300"/></td>
-    <td><img src="../../../photos\LegoAirSwitch.webp" width="300"/></td>
+    <td><img src="../../../photos/legopneumaticcylinder.jpg" width="300"/></td>
+    <td><img src="../../../photos/LegoAirSwitch.webp" width="300"/></td>
   </tr>
   <tr>
     <td align="center">Lego pneumatic cylinders</td>

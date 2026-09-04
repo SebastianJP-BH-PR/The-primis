@@ -1,6 +1,6 @@
 # Solenoid Driver Board
 
-Our [ASMS](../../../../hardware\mechanical\Pneumatics\ASMS\README.md) uses a [electronic valve](e-valve.md) to interrupt the compressed air being fed to the pneumatic engine, This allows us to turn the engine ON/OFF.
+Our [ASMS](../../../../hardware/mechanical/Pneumatics/ASMS/README.md) uses a [electronic valve](e-valve.md) to interrupt the compressed air being fed to the pneumatic engine, This allows us to turn the engine ON/OFF.
 
 ## Voltage problem
 This e-valve uses 12V, which is obviously more than our 7.4V batteries, so we used a [voltage booster](voltage_booster.md) to have a 12V power supply for our electronic valve.
@@ -12,19 +12,19 @@ When our electronic valve is actuated, (letting air through) it has a current dr
 ## Mosfet Solenoid Driver
 
 <div align= "center">
-<img src="../../../../hardware\photos\mosfetdriver.jpg" width=350>
+<img src="../../../../hardware/photos/mosfetdriver.jpg" width=350>
 </div>
 
 --- 
 
 To fix this problem we need to actuate a high current circuit with a small current circuit, and the following circuit makes this possible.
 <div align= "center">
-<img src="../../../../hardware\photos\MosfetCircuit.PNG" width=350>
+<img src="../../../../hardware/photos/MosfetCircuit.PNG" width=350>
 </div>
 
 
 
-this circuit uses a [MOSFET](../../../hardware\electrical\Solenoid_driver\mosfet.md), labled **M1** in the circuit diagram, this has many configurations, but how we utilized it was aplying 5V to the Gate, to interrupt the Drain current, this means that when theres a 5V signal in the get, the e-valve will not recieve current, therefore be closed and not let air pass.
+this circuit uses a [MOSFET](../../../hardware/electrical/Solenoid_driver/mosfet.md), labled **M1** in the circuit diagram, this has many configurations, but how we utilized it was aplying 5V to the Gate, to interrupt the Drain current, this means that when theres a 5V signal in the get, the e-valve will not recieve current, therefore be closed and not let air pass.
 
 ## Gate driver
 

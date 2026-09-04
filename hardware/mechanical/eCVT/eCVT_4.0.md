@@ -2,7 +2,7 @@
 > Retrospective log from March 20, 2026: This entry's information was digitized from the physical engineering notebook.
 
 <div align= "center">
-<img src="../../photos\IMG_2879.jpg" width=350>
+<img src="../../photos/IMG_2879.jpg" width=350>
 </div>
 
 ## Specs
