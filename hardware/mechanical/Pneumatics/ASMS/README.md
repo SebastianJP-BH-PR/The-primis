@@ -15,7 +15,7 @@ it was very difficult to find lightweight, decent pressure and compact tanks for
 We used their hoses, that are rated at a max of 120psi and their air tanks, that have a displacement of 14.5³ inches, having **X**, making a total of **XX**³ inches.
 
 ## Air regulator
- After testing with various vertions of our pneumatic engines, we deduced that we needed to supply our engines with 20-25 psi of constant pressure for a minimum of 90 seconds. The regulator allows the robot to store more air in higher pressures to later be used in lower pressure for a longer period of time, visit [air_supply_duration_calculations](logs/tests/air_supply_duration_calculations.md) for more information.
+ After testing with various vertions of our pneumatic engines, we deduced that we needed to supply our engines with 20-25 psi of constant pressure for a minimum of 90 seconds. The regulator allows the robot to store more air in higher pressures to later be used in lower pressure for a longer period of time, visit [air_supply_duration_calculations](../../../../logs/tests/air_supply_duration_calculations.md) for more information.
 
 ## Air Solenoid 
 

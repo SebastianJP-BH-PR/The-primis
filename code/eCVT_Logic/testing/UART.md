@@ -24,5 +24,5 @@ Logic level: 3.3 V
 
 ### Code for both
 
-- **[Cytron](../../../code/Media/CytronUART5212026.py)**
-- **[Raspberry Pi](../../../code/Media/RaspiUART5212026.py)** 
+- **[Cytron](../../../code/srs/CytronUART5212026.py)**
+- **[Raspberry Pi](../../../code/srs/RaspiUART5212026.py)** 

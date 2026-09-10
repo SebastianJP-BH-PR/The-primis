@@ -4,7 +4,7 @@
 
 
 <div align= "center">
-<img src="../../v-photos/Past iterations/AIZA 2.0.jpg" width=350>
+<img src="../../v-photos/Past_iterations/AIZA 2.0.jpg" width=350>
 </div>
 
 

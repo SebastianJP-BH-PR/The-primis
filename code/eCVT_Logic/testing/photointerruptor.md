@@ -27,6 +27,6 @@ void loop() {
  }
 ```
 
-[interruptor.ino](../../../code/Media/interruptor.ino)
+[interruptor.ino](../../srs/interruptor.ino)
 
 This code turns off the LED when theres an obstruction on the photointerruptor.

@@ -16,6 +16,8 @@ We need a reliable way to know the pneumatic engine's speed, we are using the [p
 
 - And finally, calculate the RPM with the calculated average time interval with this formula:
 
+
+
     $$
     RPM = \frac{60,000,000}{t}
     $$
